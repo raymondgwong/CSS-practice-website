@@ -1,0 +1,179 @@
+/*************TAG SELECTORS**************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color :#40514E;
+}
+
+p{
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Allura', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 550px;
+  top: 50px;
+}
+
+h2 {
+  font-family: 'Besley', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Besley', serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+  line-height: 2;
+  margin: auto 25px;
+  font-family: 'Besley', serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+
+}
+
+hr{
+  border-color: black;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto;
+
+
+}
+.profile{
+  margin-bottom: 100px;
+}
+.raymond-pic{
+  margin-top: 100px;
+}
+.skills{
+  margin-top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 550px;
+  bottom: 325px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.bio{
+  width: 30%;
+  margin: auto;
+}
+
+.games{
+  color: #11999E;
+}
+
+.span {
+  text-decoration: underline;
+}
+.site-subtitle{
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.game-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  margin-top: 100px
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.contact-message{
+  width: 30%;
+  margin: 40px auto;
+
+}
+
+.copyright{
+  color: #EAF6F6;
+  line-height: 2;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: 'Besley', serif;
+   width: 200px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 50px;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
